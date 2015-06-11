@@ -12,7 +12,8 @@
         "epub": "styles/epub.css"
     },
     "plugins": [
-        "betterchinese"
+        "betterchinese",
+        "yahei"
     ],
     "pluginsConfig": {},
     "structure": {
