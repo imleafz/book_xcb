@@ -13,7 +13,8 @@
     },
     "plugins": [
         "betterchinese",
-        "yahei"
+        "yahei",
+        "tocstyles"
     ],
     "pluginsConfig": {},
     "structure": {
