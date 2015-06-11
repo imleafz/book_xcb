@@ -1,4 +1,44 @@
 {
+    "title": "星辰变",
+    "description": "奇幻修真小说",
+    "language": "cn",
+    "direction": "ltr",
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
     "plugins": [],
-    "pluginsConfig": {}
+    "pluginsConfig": {},
+    "structure": {
+        "readme": "INTRO.md"
+    },
+    "variables": {},
+    "links": {
+        "sidebar": {
+            "一叶方舟博客": "http://leafz.net"
+        },
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+    "pdf": {
+        "pageNumbers": true,
+        "fontSize": 16,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
 }
