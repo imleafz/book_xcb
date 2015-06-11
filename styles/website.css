@@ -1,18 +1,18 @@
 h1 {
+    font-family: "Microsoft YaHei", 微软雅黑, "MicrosoftJhengHei", 华文细黑, STHeiti, MingLiu;
     font-size: 2em;
 }
 
 h2 {
+    font-family: "Microsoft YaHei", 微软雅黑, "MicrosoftJhengHei", 华文细黑, STHeiti, MingLiu;
     font-size: 1.6em;
 }
 
 h3 {
+    font-family: "Microsoft YaHei", 微软雅黑, "MicrosoftJhengHei", 华文细黑, STHeiti, MingLiu;
     font-size: 1.2em;
 }
 
-h1 h2 h3 {
-    font-family: "Microsoft YaHei", 微软雅黑, "MicrosoftJhengHei", 华文细黑, STHeiti, MingLiu;
-}
 
 p {
     font-family: "Microsoft YaHei", 微软雅黑, "MicrosoftJhengHei", 华文细黑, STHeiti, MingLiu;
@@ -21,4 +21,5 @@ p {
 
 a {
     color: auto;
+    text-decoration: none;
 }
