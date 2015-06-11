@@ -13,16 +13,9 @@
     },
     "plugins": [
         "betterchinese",
-        "yahei",
-        "tocstyles"
+        "yahei"
     ],
-    "pluginsConfig": {
-        "tocstyles" : [
-            "simp-chinese-informal",
-            "decimal",
-            "decimal-leading-zero"
-        ]
-    },
+    "pluginsConfig": {},
     "structure": {
         "readme": "INTRO.md"
     },
