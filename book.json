@@ -11,7 +11,9 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": [],
+    "plugins": [
+        "betterchinese"
+    ],
     "pluginsConfig": {},
     "structure": {
         "readme": "INTRO.md"
