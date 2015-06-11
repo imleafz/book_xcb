@@ -1,6 +1,6 @@
 # 目录
 
-* [作品简介](README.md)
+* [作品简介](INTRO.md)
 * [第一集 秦羽](contents/chap01/chap01_sect0000.md)
    * [第一章 秦羽](contents/chap01/chap01_sect0001.md)
    * [第二章 决心](contents/chap01/chap01_sect0002.md)
