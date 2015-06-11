@@ -16,7 +16,13 @@
         "yahei",
         "tocstyles"
     ],
-    "pluginsConfig": {},
+    "pluginsConfig": {
+        "tocstyles" : [
+            "simp-chinese-informal",
+            "decimal",
+            "decimal-leading-zero"
+        ]
+    },
     "structure": {
         "readme": "INTRO.md"
     },
